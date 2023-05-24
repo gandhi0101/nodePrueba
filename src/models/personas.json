@@ -1,0 +1,63 @@
+[
+    {
+      "nombre": "Juan",
+      "apellido": "Pérez",
+      "edad": 25,
+      "correo": "juan.perez@example.com"
+    },
+    {
+      "nombre": "María",
+      "apellido": "Gómez",
+      "edad": 30,
+      "correo": "maria.gomez@example.com"
+    },
+    {
+      "nombre": "Pedro",
+      "apellido": "Sánchez",
+      "edad": 35,
+      "correo": "pedro.sanchez@example.com"
+    },
+    {
+      "nombre": "Ana",
+      "apellido": "López",
+      "edad": 28,
+      "correo": "ana.lopez@example.com"
+    },
+    {
+      "nombre": "Carlos",
+      "apellido": "Martínez",
+      "edad": 32,
+      "correo": "carlos.martinez@example.com"
+    },
+    {
+      "nombre": "Laura",
+      "apellido": "Ramírez",
+      "edad": 27,
+      "correo": "laura.ramirez@example.com"
+    },
+    {
+      "nombre": "Luis",
+      "apellido": "Torres",
+      "edad": 29,
+      "correo": "luis.torres@example.com"
+    },
+    {
+      "nombre": "Marta",
+      "apellido": "Hernández",
+      "edad": 31,
+      "correo": "marta.hernandez@example.com"
+    },
+    {
+      "nombre": "Javier",
+      "apellido": "García",
+      "edad": 33,
+      "correo": "javier.garcia@example.com"
+    },
+    {
+      "nombre": "Sofía",
+      "apellido": "Fernández",
+      "edad": 26,
+      "correo": "sofia.fernandez@example.com"
+    }
+  ]
+  
